@@ -9,6 +9,9 @@
 <body>
   <h1>Discover Amazing Products at MyShop!</h1>
   <p>MyShop by CLI.</p>
+  <nav>
+    <a href="about.php">About Us</a>
+  </nav>
   <script src="script.js"></script>
 </body>
 </html>
