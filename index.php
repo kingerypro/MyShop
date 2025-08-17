@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h1>Welcome to MyShop!</h1>
+  <h1>Discover Amazing Products at MyShop!</h1>
   <p>MyShop by CLI.</p>
   <script src="script.js"></script>
 </body>
