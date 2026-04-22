@@ -8,10 +8,16 @@ A modern ecommerce web app concept focused on:
 - Product/category management and customer account flows
 - Interactive 3D product customization preview
 
-## Run locally
+## One-click local start
 
 ```bash
-php -S localhost:8000
+./start-local.sh
 ```
 
-Then open `http://localhost:8000`.
+The server runs on `http://127.0.0.1:8000` by default.
+
+### Optional custom host/port
+
+```bash
+HOST=0.0.0.0 PORT=8080 ./start-local.sh
+```
